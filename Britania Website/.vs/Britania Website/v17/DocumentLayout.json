@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anshu\\source\\repos\\Britania Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\wwwroot\\css\\contact.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\wwwroot\\css\\about.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\wwwroot\\css\\review.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\wwwroot\\css\\review.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\pages\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\pages\\review.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\wwwroot\\css\\product.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\wwwroot\\css\\product.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\pages\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|c:\\users\\anshu\\source\\repos\\britania website\\britania website\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F5CB8F46-CEEB-41FB-8364-F3AB8EBE052E}|Britania Website\\Britania Website.csproj|solutionrelative:britania website\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "product.css",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\product.css",
+              "RelativeDocumentMoniker": "Britania Website\\wwwroot\\css\\product.css",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\product.css",
+              "RelativeToolTip": "Britania Website\\wwwroot\\css\\product.css",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T12:14:38.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "about.css",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\about.css",
+              "RelativeDocumentMoniker": "Britania Website\\wwwroot\\css\\about.css",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\about.css",
+              "RelativeToolTip": "Britania Website\\wwwroot\\css\\about.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T12:14:22.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.css",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "Britania Website\\wwwroot\\css\\home.css",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "Britania Website\\wwwroot\\css\\home.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T12:09:48.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Britania Website\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Britania Website\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:32:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Product.cshtml",
+              "RelativeDocumentMoniker": "Britania Website\\Pages\\Product.cshtml",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Product.cshtml",
+              "RelativeToolTip": "Britania Website\\Pages\\Product.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwCEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:29:45.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cshtml",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Review.cshtml",
+              "RelativeDocumentMoniker": "Britania Website\\Pages\\Review.cshtml",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Review.cshtml",
+              "RelativeToolTip": "Britania Website\\Pages\\Review.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:30:53.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "review.css",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\review.css",
+              "RelativeDocumentMoniker": "Britania Website\\wwwroot\\css\\review.css",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\review.css",
+              "RelativeToolTip": "Britania Website\\wwwroot\\css\\review.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T12:15:23.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Britania Website\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Contact.cshtml",
+              "RelativeToolTip": "Britania Website\\Pages\\Contact.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:31:52.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "contact.css",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\contact.css",
+              "RelativeDocumentMoniker": "Britania Website\\wwwroot\\css\\contact.css",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\contact.css",
+              "RelativeToolTip": "Britania Website\\wwwroot\\css\\contact.css",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T12:15:40.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "Britania Website\\Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\About.cshtml",
+              "RelativeToolTip": "Britania Website\\Pages\\About.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T12:39:19.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Britania Website\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Britania Website\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:26:03.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Britania Website\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Britania Website\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-09T10:39:08.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Britania Website\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Britania Website\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T08:35:46.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "Britania Website\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\anshu\\source\\repos\\Britania Website\\Britania Website\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "Britania Website\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:35:51.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

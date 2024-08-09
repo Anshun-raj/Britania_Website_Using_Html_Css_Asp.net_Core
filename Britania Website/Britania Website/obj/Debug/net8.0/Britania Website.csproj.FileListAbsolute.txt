@@ -1,0 +1,30 @@
+C:\Users\anshu\source\repos\Britania Website\Britania Website\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\anshu\source\repos\Britania Website\Britania Website\bin\Debug\net8.0\appsettings.json
+C:\Users\anshu\source\repos\Britania Website\Britania Website\bin\Debug\net8.0\Britania Website.staticwebassets.runtime.json
+C:\Users\anshu\source\repos\Britania Website\Britania Website\bin\Debug\net8.0\Britania Website.exe
+C:\Users\anshu\source\repos\Britania Website\Britania Website\bin\Debug\net8.0\Britania Website.deps.json
+C:\Users\anshu\source\repos\Britania Website\Britania Website\bin\Debug\net8.0\Britania Website.runtimeconfig.json
+C:\Users\anshu\source\repos\Britania Website\Britania Website\bin\Debug\net8.0\Britania Website.dll
+C:\Users\anshu\source\repos\Britania Website\Britania Website\bin\Debug\net8.0\Britania Website.pdb
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\Britania Website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\Britania Website.AssemblyInfoInputs.cache
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\Britania Website.AssemblyInfo.cs
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\Britania Website.csproj.CoreCompileInputs.cache
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\Britania Website.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\Britania Website.RazorAssemblyInfo.cache
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\Britania Website.RazorAssemblyInfo.cs
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\staticwebassets\msbuild.Britania Website.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\staticwebassets\msbuild.build.Britania Website.props
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Britania Website.props
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Britania Website.props
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\scopedcss\bundle\Britania Website.styles.css
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\scopedcss\projectbundle\Britania Website.bundle.scp.css
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\Britania Website.dll
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\refint\Britania Website.dll
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\Britania Website.pdb
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\Britania Website.genruntimeconfig.cache
+C:\Users\anshu\source\repos\Britania Website\Britania Website\obj\Debug\net8.0\ref\Britania Website.dll

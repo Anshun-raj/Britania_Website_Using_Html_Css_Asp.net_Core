@@ -1,0 +1,33 @@
+.header{
+    display:flex;
+    width:100%;
+    background-color:red;
+    height:6.8vh;
+    justify-content:space-around;
+}
+
+.header h2{
+    color:#fff;
+    font-weight:bold;
+    cursor:pointer;
+}
+
+.header ul{
+    display:flex;
+    justify-content:space-between;
+    width:50%;
+    height:100%;
+    align-items:center;
+    font-weight:bold;
+    font-size:20px;
+}
+
+.header ul li{
+    list-style:none;
+   
+}
+
+.header ul li a{
+    text-decoration:none;
+    color:#fff;
+}

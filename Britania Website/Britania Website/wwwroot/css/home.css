@@ -1,0 +1,47 @@
+﻿*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+.home{
+    background-color:yellow;
+    height:680px;
+}
+
+.home .homeInfo{
+    display:flex;
+    width:100%;
+    justify-content:center;
+    align-items:center;
+    height:90%;
+    flex-direction:column;
+}
+
+.home .homeInfo h2{
+    font-weight:bold;
+    font-size:40px;
+}
+
+.home .homeInfo h4{
+    font-size:34px;
+    color:red;
+    font-weight:bold;
+}
+
+.home .homeInfo .btn{
+    border:none;
+    background-color:#000;
+    margin:12px 0;
+    color:#fff;
+    font-weight:bold;
+    padding:7.5px 12px;
+    transition:0.5s all;
+}
+
+.home .homeInfo .btn:hover{
+    background-color:red;
+}
+
+
+

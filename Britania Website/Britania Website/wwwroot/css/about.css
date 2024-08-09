@@ -1,0 +1,65 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.about {
+    background-color: yellow;
+    height: 680px;
+    width:100%;
+    
+}
+
+.about h2{
+    color:red;
+    text-align:center;
+    font-weight:bold;
+    padding:8px 0;
+}
+
+.about .aboutInfo {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    height: 90%;
+   
+}
+
+.about .aboutInfo .aboutLeft{
+    display:flex;
+    justify-content:center;
+    width:50%;
+    height:100%;
+    text-align:center;
+    align-items:center;
+}
+
+.about .aboutInfo .aboutLeft img{
+    width:450px;
+    height:490px;
+    cursor:pointer;
+}
+
+.about .aboutInfo .aboutRight {
+        display: flex;
+        justify-content: center;
+        flex-direction:column;
+        width: 50%;
+        height: 90%;
+        text-align: center;
+        align-items:center;
+}
+
+.about .aboutInfo .aboutRight h3 {
+        color: red;
+        font-weight: bold;
+        padding: 12px 0 0 0;
+}
+
+.about .aboutInfo .aboutRight p{
+    text-align:center;
+    margin:0px 60px;
+    font-weight:500;
+}
+

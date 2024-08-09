@@ -1,0 +1,74 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.contact {
+    background-color: yellow;
+    height: 680px;
+    width: 100%;
+}
+
+.contact h2 {
+        color: red;
+        text-align: center;
+        font-weight: bold;
+        padding: 8px 0;
+}
+
+    .contact .contactInfo {
+        display: flex;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content:center;
+        height: 80%;
+    }
+
+.contact .contactInfo form {
+        width: 500px;
+        margin: 20px 0;
+        text-align: center;
+        background-color:#fff;
+        border-radius:5px;
+        height:450px;
+        cursor:pointer;
+        padding:40px 0;
+}
+
+.contact .contactInfo form input {
+    width: 90%;
+    height: 4.5vh;
+    margin: 15px;
+}
+
+.contact .contactInfo form input ::placeholder {
+        padding: 0 5px;
+}
+
+.contact .contactInfo form button {
+        display: block;
+        position: relative;
+        left: 41%;
+        margin: 15px 0;
+        padding: 8px 20px;
+        font-weight: bold;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+        background-color: red;
+        color: #fff;
+        transition: 0.5s all;
+}
+
+.contact .contactInfo form button:hover {
+        color: red;
+        background-color: black;
+}
+
+
+
+
